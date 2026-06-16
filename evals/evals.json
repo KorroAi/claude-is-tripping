@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "evals": [
+    {
+      "id": "trip-structure-001",
+      "description": "Verifies the trip guide spawns agents in correct order with escalating intensity",
+      "input": "I need a crazy idea for a meditation app that isn't boring",
+      "expected": {
+        "rounds_completed": { "min": 2, "max": 4 },
+        "agents_per_round": 3,
+        "integration_present": true,
+        "output_format": "trip_conclusion_with_graveyard"
+      }
+    },
+    {
+      "id": "quality-gate-001",
+      "description": "Verifies the trip rejects ideas a single Claude could produce",
+      "input": "How do I name my SaaS startup?",
+      "expected": {
+        "destroyer_must_find_flaws": true,
+        "synthesis_must_be_non_obvious": true,
+        "no_generic_output": true
+      }
+    }
+  ]
+}
