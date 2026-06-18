@@ -1,6 +1,10 @@
 # 🔮 Claude Is Tripping
 
 <p align="center">
+  <img src="assets/illustration.png" alt="Claude Is Tripping" width="600">
+</p>
+
+<p align="center">
   <em>Universal Breakthrough Engine — 3 agents collide in a structured dialectic.<br>Ideas no single Claude could produce, forged through conflict, not creation.</em>
 </p>
 
