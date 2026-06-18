@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-v6-blue" alt="Version"></a>
+  <a href="https://github.com/KorroAi/claude-is-tripping/actions"><img src="https://github.com/KorroAi/claude-is-tripping/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/agents-3%20%E2%86%92%208-orange" alt="Agents"></a>
   <a href="#"><img src="https://img.shields.io/badge/domains-8-purple" alt="Domains"></a>
