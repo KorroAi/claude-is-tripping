@@ -1,6 +1,6 @@
 # Claude Is Tripping — Technical Paper
 
-**KorroAi** — June 2026
+**Korrocorp** — June 2026
 
 ---
 

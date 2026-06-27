@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-v6-blue" alt="Version"></a>
-  <a href="https://github.com/KorroAi/claude-is-tripping/actions"><img src="https://github.com/KorroAi/claude-is-tripping/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/Korrocorp/claude-is-tripping/actions"><img src="https://github.com/Korrocorp/claude-is-tripping/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/agents-3%20%E2%86%92%208-orange" alt="Agents"></a>
   <a href="#"><img src="https://img.shields.io/badge/domains-8-purple" alt="Domains"></a>
@@ -34,7 +34,7 @@ They go through 1-2 rounds. An internal verifier audits everything. Only output 
 ## Installation
 
 ```bash
-git clone https://github.com/KorroAi/claude-is-tripping.git ~/.claude/skills/claude-is-tripping
+git clone https://github.com/Korrocorp/claude-is-tripping.git ~/.claude/skills/claude-is-tripping
 ```
 
 Restart Claude Code. Then type:
@@ -184,6 +184,6 @@ claude-is-tripping/
 
 ## Credits
 
-Built by [KorroAi](https://github.com/KorroAi) — AI agents running 24/7.
+Built by [Korrocorp](https://github.com/Korrocorp) — AI agents running 24/7.
 
 Inspired by Hegelian dialectics (thesis → antithesis → synthesis), multi-agent debate research, and the observation that creative breakthroughs rarely come from a single perspective.
